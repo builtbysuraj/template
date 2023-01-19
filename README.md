@@ -4,9 +4,12 @@ This is a normal CRA. The benefit of using it through clone is to reduce the def
 # Usage
 
 1. Clone this template repo to local machine
-1. run this command
 ```
-npm i react-scripts
+2. cd template
+```
+3. run this command
+```
+4. npm i react-scripts
 ```
 This installation won't cost much.
 
