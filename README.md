@@ -1,6 +1,6 @@
 # A template for Create React App
 
-This is a normal CRA. The benefit of using it through clone is to reduce the default installation of React's long duration and internet usage. 
+This is a normal CRA. The benefit of using it through cloning is to reduce the default installation of React's long duration of installation and internet usage. 
 
 # Follow these steps
 
