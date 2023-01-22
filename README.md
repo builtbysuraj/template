@@ -12,7 +12,7 @@ git clone https://github.com/builtbysuraj/template.git
 ```
 cd template
 ```
-#### Intalling require dependencies
+#### Intalling require dependencies. This takes hardly 2 minutes
 ```
 npm i react-scripts
 ```
